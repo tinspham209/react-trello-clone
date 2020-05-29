@@ -1,6 +1,7 @@
 # React Drag'n'Drop
 
 Learn to create a Trello Dashboard clone with React-DnD!
+Link tutorial: https://youtu.be/aK2PD_REk7A
 
 ## Installation
 
